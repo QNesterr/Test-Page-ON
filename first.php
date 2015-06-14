@@ -1,2 +1,2 @@
-<?php
+йейейейейейейейе<?php
   echo "Hello, world"
